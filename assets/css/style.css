@@ -9,8 +9,18 @@
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
+    color: #302f36;
 }
 
-h1 {
+/* heading and logo */
+
+h1, h2 {
     font-family: 'Crimson Text', serif;
+    letter-spacing: 2px;
+    color: #222224;
+}
+
+#logo {
+    float: left;
+    font-size: 2.5em;
 }
