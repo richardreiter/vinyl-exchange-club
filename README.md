@@ -1,4 +1,4 @@
-# Dublin Vinyl Exchange Club
+# Vinyl Exchange Club
 
 ## Features
 
