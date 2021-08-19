@@ -108,3 +108,11 @@ h1, h2 {
     left: 30px;
     text-align: center;
 }
+
+#club-intentions > h1 {
+    font-size: 2em;
+}
+
+#club-intentions, h2 {
+    color: #302f36;
+}
