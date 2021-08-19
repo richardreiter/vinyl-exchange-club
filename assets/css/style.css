@@ -23,6 +23,7 @@ h1, h2 {
 #logo {
     float: left;
     font-size: 2.5em;
+    margin-left: 20px;
 }
 
 /* nav bar float to the right and horizantally */
@@ -40,7 +41,6 @@ h1, h2 {
 }
 
 #menu li {
-    
     list-style-type: none;
     margin-right: 25px;
     display: inline-block;
@@ -96,7 +96,7 @@ h1, h2 {
 }
 
 #hero-cover-text {
-    font-size: 135%;
+    font-size: 140%;
     font-family: 'Crimson Text', serif;
     letter-spacing: 2px;
     width: 600px;
