@@ -122,7 +122,11 @@ h1, h2 {
 }
 
 #club-intentions div {
-    width: 33%;
+    width: 33.3%;
     height: 100px;
     float: left;
+}
+
+#club-intentions-left {
+    text-align: left;
 }
