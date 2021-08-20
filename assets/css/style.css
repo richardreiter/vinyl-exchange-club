@@ -146,3 +146,14 @@ footer i {
     color: #302f36;
     padding: 4%
 }
+
+/* pictures section */
+#pics {
+    clear: both;
+    column-count: 3;
+    column-gap: 5px;
+}
+
+#pics > img {
+    width: 100%;
+}
