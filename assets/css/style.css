@@ -127,6 +127,22 @@ h1, h2 {
     float: left;
 }
 
-#club-intentions-left {
-    text-align: left;
+/* footer */
+footer {
+    height: 100px;
+}
+
+/* style socials */
+footer > ul {
+    text-align: center;
+}
+
+footer li {
+    display: inline;
+}
+
+footer i {
+    font-size: 150%;
+    color: #302f36;
+    padding: 4%
 }
