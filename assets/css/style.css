@@ -109,10 +109,20 @@ h1, h2 {
     text-align: center;
 }
 
+/* club intentions */
 #club-intentions > h1 {
     font-size: 2em;
+    text-align: center;
+    margin: 40px;
 }
 
 #club-intentions, h2 {
     color: #302f36;
+    text-align: center;
+}
+
+#club-intentions div {
+    width: 33%;
+    height: 100px;
+    float: left;
 }
