@@ -144,7 +144,7 @@ footer li {
 footer i {
     font-size: 150%;
     color: #302f36;
-    padding: 4%
+    padding: 4%;
 }
 
 /* pictures section */
@@ -157,3 +157,5 @@ footer i {
 #pics > img {
     width: 100%;
 }
+
+/* contact form section */

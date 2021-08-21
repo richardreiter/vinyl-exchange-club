@@ -30,6 +30,19 @@
         </nav>
     </header>
 
+    <section>
+        <form class="signup-form" action="https://formdump.codeinstitute.net/" method="POST">
+            <h2>Contact us to join the club!</h2>
+            <label for="name">Name</label>
+            <input type="text" name="full_name" id="name" required>
+            <label for="email">Email Address</label>
+            <input type="email" name="email_address" id="email" required>
+            <label for="phone">Mobile (optional) <small>[format: 123-456-7890]</small></label>
+            <input type="tel" name="mobile" id="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}">
+            <input type="submit" value="Count me in!">
+        </form>
+    </section>
+
     <footer>
         <ul>
             <li>
