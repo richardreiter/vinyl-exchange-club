@@ -212,3 +212,18 @@ footer i {
     background-color: #fafafa;
     color: #4c8cb6;
 }
+
+/* Media queries for responsiveness */
+
+/* Screens smaller than 1024px */
+@media screen and (max-width: 1024px) {
+    #club-intentions {
+        margin: 0 auto;
+        height: 300px;
+    }
+
+    #club-intentions div {
+        width: 100%;
+        float: left;
+    }
+}
