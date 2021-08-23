@@ -70,8 +70,8 @@ h1, h2 {
     position: relative;
 }
 
-#hero-cover-text, h2 {
-    color: white;
+#hero-cover-text {
+    color: #fafafa;
 }
 
 #hero-image {
@@ -110,14 +110,14 @@ h1, h2 {
 }
 
 /* club intentions */
-#club-intentions > h1 {
+#club-intentions > h2 {
     font-size: 2em;
     text-align: center;
     margin: 40px;
+    color: #302f36;
 }
 
-#club-intentions, h2 {
-    color: #302f36;
+#club-intentions, h3 {
     text-align: center;
 }
 
