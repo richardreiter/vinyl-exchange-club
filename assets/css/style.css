@@ -235,4 +235,8 @@ footer i {
         float: left;
         margin-left: 25px;
     }
+
+    #hero-cover-text {
+        left: 0;
+    }
 }
