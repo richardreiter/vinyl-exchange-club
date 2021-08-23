@@ -213,6 +213,11 @@ footer i {
     color: #4c8cb6;
 }
 
+/* contact page spotify iframe */
+#spotify-player {
+    text-align: center;
+}
+
 /* Media queries for responsiveness */
 
 /* Screens smaller than 1024px */
