@@ -227,3 +227,12 @@ footer i {
         float: left;
     }
 }
+
+/* Screens smaller than 768px */
+@media screen and (max-width: 768px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 25px;
+    }
+}
