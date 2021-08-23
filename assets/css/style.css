@@ -81,17 +81,17 @@ h1, h2 {
 
     /* sets zoom effect upon index loading */
     animation-name: hero-zoom;
-    animation-duration: 4s;
-    animation-fill-mode: forwards;
+    animation-duration: 8s;
+    animation-fill-mode: backwards;
 }
 
 /* zoom animation for the hero image */
 @keyframes hero-zoom {
     from {
-        transform: scale(1);
+        transform: scale(1.2);
     }
     to {
-        transform: scale(1.05);
+        transform: scale(1);
     }
 }
 
