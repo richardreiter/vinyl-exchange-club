@@ -239,4 +239,15 @@ footer i {
     #hero-cover-text {
         left: 0;
     }
+    
+    #pics {
+        column-count: 2;
+    }
+}
+
+/* Make gallery responsive for screens smaller than 480px (mobiles) */
+@media screen and (max-width: 480px) {
+    #pics {
+        column-count: 1;
+    }
 }
