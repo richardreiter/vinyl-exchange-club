@@ -12,8 +12,9 @@ body {
     color: #302f36;
 }
 
-/* heading and logo */
 
+/* heading and logo */
+/* Many thanks to Anna Greaves for the CI’s Love Running Walkthrough project https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode for a great reference and example */
 h1, h2 {
     font-family: 'Crimson Text', serif;
     letter-spacing: 2px;
@@ -27,6 +28,7 @@ h1, h2 {
 }
 
 /* nav bar float to the right and horizantally */
+/* Many thanks to Anna Greaves for the CI’s Love Running Walkthrough project https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode for a great reference and example */
 
 #menu {
     font-size: 120%;
@@ -62,6 +64,7 @@ h1, h2 {
 }
 
 /* hero image */
+/* Many thanks to Anna Greaves for the CI’s Love Running Walkthrough project https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode for a great reference and example */
 
 #hero-outer {
     height: 600px;
@@ -128,6 +131,8 @@ h1, h2 {
 }
 
 /* footer */
+/* Many thanks to Anna Greaves for the CI’s Love Running Walkthrough project https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode for a great reference and example */
+
 footer {
     height: 100px;
 }
@@ -148,6 +153,8 @@ footer i {
 }
 
 /* pictures section */
+/* Many thanks to Anna Greaves for the CI’s Love Running Walkthrough project https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode for a great reference and example */
+
 #pics {
     clear: both;
     column-count: 3;
@@ -163,6 +170,8 @@ footer i {
 }
 
 /* contact form section */
+/* Many thanks to Anna Greaves for the CI’s Love Running Walkthrough project https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode for a great reference and example */
+
 .form-section {
     height: 750px;
     clear: left;
@@ -223,6 +232,7 @@ footer i {
 }
 
 /* Media queries for responsiveness */
+/* Many thanks to Anna Greaves for the CI’s Love Running Walkthrough project https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode for a great reference and example */
 
 /* Screens smaller than 1024px */
 @media screen and (max-width: 1024px) {
