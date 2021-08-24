@@ -158,6 +158,10 @@ footer i {
     width: 100%;
 }
 
+#pics > h2 {
+    display: none;
+}
+
 /* contact form section */
 .form-section {
     height: 750px;
