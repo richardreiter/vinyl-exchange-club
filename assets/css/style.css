@@ -15,7 +15,8 @@ body {
 
 /* heading and logo */
 /* Many thanks to Anna Greaves for the CI’s Love Running Walkthrough project https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode for a great reference and example */
-h1, h2 {
+h1,
+h2 {
     font-family: 'Crimson Text', serif;
     letter-spacing: 2px;
     color: #222224;
@@ -38,7 +39,8 @@ h1, h2 {
 
 /* align nav bar elements */
 
-#menu, #logo {
+#menu,
+#logo {
     line-height: 75px;
 }
 
@@ -93,6 +95,7 @@ h1, h2 {
     from {
         transform: scale(1.2);
     }
+
     to {
         transform: scale(1);
     }
@@ -105,7 +108,7 @@ h1, h2 {
     width: 320px;
     height: 100px;
     padding-bottom: 50px;
-    background-color: rgba(254,214,158,0.5);
+    background-color: rgba(254, 214, 158, 0.5);
     position: absolute;
     bottom: 30px;
     left: 30px;
@@ -113,14 +116,15 @@ h1, h2 {
 }
 
 /* club intentions */
-#club-intentions > h2 {
+#club-intentions>h2 {
     font-size: 2em;
     text-align: center;
     margin: 40px;
     color: #302f36;
 }
 
-#club-intentions, h3 {
+#club-intentions,
+h3 {
     text-align: center;
 }
 
@@ -138,7 +142,7 @@ footer {
 }
 
 /* style socials */
-footer > ul {
+footer>ul {
     text-align: center;
 }
 
@@ -161,11 +165,11 @@ footer i {
     column-gap: 5px;
 }
 
-#pics > img {
+#pics>img {
     width: 100%;
 }
 
-#pics > h2 {
+#pics>h2 {
     display: none;
 }
 
@@ -184,15 +188,15 @@ footer i {
 .signup-form {
     margin: 150px 10% 0 0;
     color: #4c8cb6;
-    background-color: rgba(254,214,158,0.5);
+    background-color: rgba(254, 214, 158, 0.5);
     max-width: 400px;
     position: absolute;
     left: 8%;
     padding: 30px;
 }
 
-.signup-form > h2 {
-    color: #222224;;
+.signup-form>h2 {
+    color: #222224;
     margin-bottom: 20px;
 }
 
@@ -215,7 +219,8 @@ footer i {
     padding: 16px 30px;
     text-align: center;
     font-size: 100%;
-    background-color: #302f36;;
+    background-color: #302f36;
+    ;
     color: #fafafa;
     display: block;
     margin: 0 auto;
@@ -258,7 +263,7 @@ footer i {
     #hero-cover-text {
         left: 0;
     }
-    
+
     #pics {
         column-count: 2;
     }
