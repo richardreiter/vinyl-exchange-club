@@ -179,7 +179,7 @@ footer i {
 .form-section {
     height: 750px;
     clear: left;
-    background: url("/assets/images/contact-background.jpg");
+    background: url("../images/contact-background.jpg");
     background-size: cover;
     background-position: center;
     margin-bottom: 60px;
