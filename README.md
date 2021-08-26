@@ -10,6 +10,14 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
 
 ### Existing Features
 
+- __Navigation Bar__
+
+  - Navigation is a fully responsive feature on all three pages, it includes links on the site's Logo (displaying to the left within the bar), Home, Photos and Contact pages.
+  - It looks the same in each page to allow for easy navigation (without the user having to use the ‘back’ button), taking the user through a logical journey.
+  - This section makes it easy for the user to learn more about the site's different sections and contents.
+
+![Navigation Bar](docs/screenshots/vec-navbar.png)
+
 ### Features Left to Implement
 
 ## Testing
