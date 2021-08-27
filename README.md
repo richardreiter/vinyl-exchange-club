@@ -18,6 +18,14 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
 
 ![Navigation Bar](docs/screenshots/vec-navbar.png)
 
+- __Hero image/cover text__
+
+  - Landing page/hero image features a picture of a vinyl record and needle, including a cover text overlay to welcome the user and let them know in a sentence what the site is about.
+
+  - It also features a backwards animation aiming to catch the user's attention.
+
+![Hero Image](docs/screenshots/vec-hero.png)
+
 ### Features Left to Implement
 
 ## Testing
