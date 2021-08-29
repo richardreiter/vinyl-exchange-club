@@ -47,6 +47,13 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
 
 ![Photos Page](docs/screenshots/vec-gallery.png)
 
+- __Contact Page__
+
+  - The contact page is going to present the user with the opportunity to contact the club to join the Vinyl Exchange Club and hear more about future meetups/events.
+  - The contact form features three fields, two mandatory ("Name" and "Email Address") and an optional one ("Mobile"), as well as a submit button.
+
+  ![Contact Page](docs/screenshots/vec-contact.png)
+
 ### Features Left to Implement
 
 ## Testing
