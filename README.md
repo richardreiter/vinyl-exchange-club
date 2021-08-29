@@ -26,6 +26,13 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
 
 ![Hero Image](docs/screenshots/vec-hero.png)
 
+- __Mission/Intentions Section__
+
+  - The mission section is going to clarify to the user the perks/gains of joining the Vinyl Exchange Club community. 
+  - This section should inspire the user to contemplate engaging with the site's community, as they could potentially make new friends, hear new music, save money and help the environment, all in a sustainable way.
+
+![Mission](docs/screenshots/vec-mission.png)
+
 ### Features Left to Implement
 
 ## Testing
