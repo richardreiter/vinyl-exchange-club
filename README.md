@@ -40,6 +40,13 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
 
 ![Footer](docs/screenshots/vec-footer.png)
 
+- __Photos Page__
+
+  - The photos page features a series of high quality images which can aid the users to have an idea of how the club hang outs are.
+  - Users may find this section in particular beneficial, as they will have a visual idea of what the club appears to be and how members engage.
+
+![Photos Page](docs/screenshots/vec-gallery.png)
+
 ### Features Left to Implement
 
 ## Testing
