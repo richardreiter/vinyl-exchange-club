@@ -33,6 +33,13 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
 
 ![Mission](docs/screenshots/vec-mission.png)
 
+- __Footer__
+
+  - The footer area consists of five social links of the club (Instagram, Facebook, Spotify, Mixcloud and Soundcloud - all of them if clicked, open on a separate tab).
+  - Like the navigation section, the footer looks the same in each page (and features in all of the pages) to allow for easy navigation, taking the user through a logical journey.
+
+![Footer](docs/screenshots/vec-footer.png)
+
 ### Features Left to Implement
 
 ## Testing
