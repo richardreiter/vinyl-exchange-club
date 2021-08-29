@@ -52,7 +52,15 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
   - The contact page is going to present the user with the opportunity to contact the club to join the Vinyl Exchange Club and hear more about future meetups/events.
   - The contact form features three fields, two mandatory ("Name" and "Email Address") and an optional one ("Mobile"), as well as a submit button.
 
-  ![Contact Page](docs/screenshots/vec-contact.png)
+![Contact Page](docs/screenshots/vec-contact.png)
+
+- __Spotify iFrame__
+
+  - The Spotify iFrame section precedes the footer section on the contact page.
+
+  - This section features an inline frame where the user will have the opportunity to initiate the action of playing music (only if they click on the play button) from the club's Spotify playlist that is embedded.
+
+![Spotify iFrame](docs/screenshots/vec-spotifyiframe.png)
 
 ### Features Left to Implement
 
