@@ -68,6 +68,10 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
 
   - Implementing a hamburger menu/icon for mobile devices would be a positive future addition to perhaps keep in mind, in case the number of pages within the website grow (as in that case the current header navbar might become too busy without a hamburger icon).
 
+- __Forum/Members Area__
+
+  - Implementing a forum/members area in the future could be really beneficial for the Vinyl Exchange Club community, so the users would be able to post vinyl records that they are willing to exchange and also let other users know which records they'd be looking for.
+
 ## Testing
 
 ### Validator Testing 
