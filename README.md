@@ -88,6 +88,27 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
 
   ![CSS Jigsaw validation result](docs/validation/css-validation.png)
 
+### Google Lighthouse
+
+- Google's Lighthouse was used for measuring the quality of the pages.
+  - Index Page (desktop) result
+  ![Index Lighthouse PC result](docs/lighthouse/index-lighthouse-desktop.png)
+
+  - Index Page (mobile) result
+  ![Index Lighthouse PC result](docs/lighthouse/index-lighthouse-mobile.png)
+
+  - Photos Page (desktop) result
+  ![Index Lighthouse PC result](docs/lighthouse/photos-lighthouse-desktop.png)
+
+  - Photos Page (mobile) result
+  ![Index Lighthouse PC result](docs/lighthouse/photos-lighthouse-mobile.png)
+
+  - Contact Page (desktop) result
+  ![Index Lighthouse PC result](docs/lighthouse/contact-lighthouse-desktop.png)
+
+  - Contact Page (mobile) result
+  ![Index Lighthouse PC result](docs/lighthouse/contact-lighthouse-mobile.png)
+
 ### Unfixed Bugs
 
 ## Deployment
