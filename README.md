@@ -91,23 +91,35 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
 ### Google Lighthouse
 
 - Google's Lighthouse was used for measuring the quality of the pages.
-  - Index Page (desktop) result
+  - Index Page (desktop) result:
   ![Index Lighthouse PC result](docs/lighthouse/index-lighthouse-desktop.png)
 
-  - Index Page (mobile) result
+  - Index Page (mobile) result:
   ![Index Lighthouse PC result](docs/lighthouse/index-lighthouse-mobile.png)
 
-  - Photos Page (desktop) result
+  - Photos Page (desktop) result:
   ![Index Lighthouse PC result](docs/lighthouse/photos-lighthouse-desktop.png)
 
-  - Photos Page (mobile) result
+  - Photos Page (mobile) result:
   ![Index Lighthouse PC result](docs/lighthouse/photos-lighthouse-mobile.png)
 
-  - Contact Page (desktop) result
+  - Contact Page (desktop) result:
   ![Index Lighthouse PC result](docs/lighthouse/contact-lighthouse-desktop.png)
 
-  - Contact Page (mobile) result
+  - Contact Page (mobile) result:
   ![Index Lighthouse PC result](docs/lighthouse/contact-lighthouse-mobile.png)
+
+### Color Contrast Accessibility Checker
+
+- [a11y Color Contrast Accessibility Validator](https://color.a11y.com/) was used to analyse the contrast of the pages and make sure it complies with website accessibilities regulations.
+  - Index Page result:
+  ![Index contrast result](docs/contrast/index-contrast.png)
+
+  - Photos Page result:
+  ![Index contrast result](docs/contrast/photos-contrast.png)
+
+  - Contact Page result:
+  ![Index contrast result](docs/contrast/contact-contrast.png)
 
 ### Unfixed Bugs
 
