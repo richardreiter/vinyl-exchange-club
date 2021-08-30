@@ -64,6 +64,10 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
 
 ### Features Left to Implement
 
+- __Hamburger menu__
+
+  - Implementing a hamburger menu/icon for mobile devices would be a positive future addition to perhaps keep in mind, in case the number of pages within the website grow (as in that case the current header navbar might become too busy without a hamburger icon).
+
 ## Testing
 
 ### Validator Testing 
