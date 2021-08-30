@@ -121,6 +121,12 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
   - Contact Page result:
   ![Index contrast result](docs/contrast/contact-contrast.png)
 
+### Responsive Testing
+
+- __[Am I Responsive?](http://ami.responsivedesign.is/)__
+  - This design tool was used to show how responsive the website is and looks accross 4 different viewports (Desktop, Laptop, Tablet and Mobile):
+![Responsive Vinyl Exchange Club](docs/screenshots/vec-responsiveness.png)
+
 ### Unfixed Bugs
 
 ## Deployment
