@@ -124,7 +124,7 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
 ### Responsive Testing
 
 - __[Am I Responsive?](http://ami.responsivedesign.is/)__
-  - This design tool was used to show how responsive the website is and looks accross 4 different viewports (Desktop, Laptop, Tablet and Mobile):
+  - This design tool was used to show how responsive the website is and looks across 4 different viewports (Desktop, Laptop, Tablet and Mobile):
 ![Responsive Vinyl Exchange Club](docs/screenshots/vec-responsiveness.png)
 
 ### Device Testing
@@ -135,6 +135,16 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
   - iPad 8th generation
   - iPhone 6
   - Xiaomi Mi A3 (Android 11)
+
+### Browser Testing
+
+- The Vinyl Exchange Club website was tested on several browsers (without any issues - across different devices), including:
+  - Google Chrome (92.0.4515.159 (Official Build) (arm64))
+  - Mozilla Firefox (91.0.2 (64-bit))
+  - Safari (Version 14.1.2 (16611.3.10.1.6))
+  - Microsoft Edge
+  - Brave (Version 1.28.106 Chromium: 92.0.4515.159 (Official Build) (arm64))
+  - Vivaldi (4.1.2369.21 (Stable channel) (arm64))
 
 ### Unfixed Bugs
 
