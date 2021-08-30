@@ -127,6 +127,15 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
   - This design tool was used to show how responsive the website is and looks accross 4 different viewports (Desktop, Laptop, Tablet and Mobile):
 ![Responsive Vinyl Exchange Club](docs/screenshots/vec-responsiveness.png)
 
+### Device Testing
+
+- The Vinyl Exchange Club website was tested on several devices/environments (without any issues), including:
+  - MacBook Air 13.3" M1 2020 (macOS Big Sur 11.5.2)
+  - Lenovo 5i i5 15" (Windows 10 64x)
+  - iPad 8th generation
+  - iPhone 6
+  - Xiaomi Mi A3 (Android 11)
+
 ### Unfixed Bugs
 
 ## Deployment
