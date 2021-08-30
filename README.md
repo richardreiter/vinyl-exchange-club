@@ -74,7 +74,19 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
 
 ## Testing
 
-### Validator Testing 
+### Validator Testing
+
+- HTML
+  - No errors/warnings were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frichardreiter.github.io%2Fvinyl-exchange-club%2F)
+
+  ![Index Page W3C validation result](docs/validation/index-validation.png)
+  ![Photos Page W3C validation result](docs/validation/photos-validation.png)
+  ![Contact Page W3C validation result](docs/validation/contact-validation.png)
+
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frichardreiter.github.io%2Fvinyl-exchange-club%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+  ![CSS Jigsaw validation result](docs/validation/css-validation.png)
 
 ### Unfixed Bugs
 
