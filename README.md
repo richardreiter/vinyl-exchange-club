@@ -146,6 +146,28 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
   - Brave (Version 1.28.106 Chromium: 92.0.4515.159 (Official Build) (arm64))
   - Vivaldi (4.1.2369.21 (Stable channel) (arm64))
 
+### Features Testing
+
+- Navigation bar:
+  - The navbar can be found at the top of all pages (common website convention) and is fully responsive on all viewports.
+  - All links were tested on every single page by clicking on them (making sure no broken links are found).
+  - The menu links are displayed under the logo on tablet/mobile devices.
+
+- Gallery:
+  - The photo gallery is fully responsive (the column count for laptop/desktop is three photos, tablets is two pictures and for mobile is one photo).
+
+- Contact Form:
+  - The contact form has validation for the email and mobile fields.
+  - The submit button sends a post request to Code Institute's form dump (https://formdump.codeinstitute.net/).
+
+- Spotify iFrame:
+  - The Spotify iFrame doesn't auto-play music and is fully responsive on all viewports.
+
+- Footer:
+  - The footer can be found at the bottom of all pages (common website convention) and is fully responsive on all viewports.
+  - All links were tested making sure they are corret and open on a new tab.
+
+
 ### Unfixed Bugs
 
 ## Deployment
