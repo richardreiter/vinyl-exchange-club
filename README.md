@@ -167,8 +167,19 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
   - The footer can be found at the bottom of all pages (common website convention) and is fully responsive on all viewports.
   - All links were tested making sure they are corret and open on a new tab.
 
+### Fixed Bugs
 
-### Unfixed Bugs
+- Footer icons had disappeared from Photos page:
+  - I had accidentaly deleted the [Font Awesome](https://fontawesome.com/) kit script from the page's source code, issue was fixed once I implemented the script again (footer icons reappeared).
+
+- Background image disappeared from Contact page once website was deployed:
+  - I hadn't noticed I was using an absolute file path as opposed to a relative one for that image in particular, once I deployed the site I couldn't see the contact page's background image, this was fixed once I changed the file path to a relative path.
+
+- iFrame code embbed validation issue:
+  - When passing the contact page code through [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frichardreiter.github.io%2Fvinyl-exchange-club%2F), initially I had received a few error messages regarding the iFrame code snippet I copied from Spotify, these were fixed once I read the error messages from the validator and removed the width, frameborder and allowtransparency attributes from the code snippet.
+
+- Photos page validation warning:
+  - When passing the photos page code through [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frichardreiter.github.io%2Fvinyl-exchange-club%2F), initially I had received a warning message "Section lacks heading", this was fixed adding a h2 to the pics section and then setting a style rule to display none.
 
 ## Deployment
 
