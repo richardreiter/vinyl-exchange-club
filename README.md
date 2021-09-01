@@ -195,6 +195,16 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
 
 ## Credits 
 
-### Content 
+### Content
+
+- The footer icons were taken from [Font Awesome.](https://fontawesome.com/)
+- Font inspiration ideas were taken from [this blog post.](https://artisanthemes.io/best-google-fonts-combinations-modern-agency-website/)
+- The color scheme was inspired on [this article.](https://designshack.net/articles/trends/best-website-color-schemes/)
+- The instructions on [how to fix the navigation bar text aligning backwards](https://stackoverflow.com/questions/32768668/navigation-bar-text-aligning-backwards-css) were taken from [this Stack Overflow post](https://stackoverflow.com/questions/32768668/navigation-bar-text-aligning-backwards-css).
+- The instructions on [how to reset/remove the latest Git commit from a repo](https://gist.github.com/CrookedNumber/8964442) were taken from [this Github Gist](https://gist.github.com/CrookedNumber/8964442).
+- The instructions on [how to center a form submit button](https://stackoverflow.com/questions/4221263/center-form-submit-buttons-html-css) were taken from [this Stack Overflow post](https://stackoverflow.com/questions/4221263/center-form-submit-buttons-html-css).
+- The instructions on [how to fix the iframe showing error on validation](https://stackoverflow.com/questions/11810034/iframe-showing-error-on-validation) were taken from [this Stack Overflow post.](https://stackoverflow.com/questions/11810034/iframe-showing-error-on-validation)
+- [This Stack Overflow blog post about best practices for writing code comments](https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/) inspired me, when leaving code comments/references.
+- A huge thank you to Anna Greaves and Code Institute for [the Love Running Walkthrough project](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode) which was a great reference, inspiration and example.
 
 ### Media
