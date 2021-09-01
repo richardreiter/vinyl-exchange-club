@@ -208,3 +208,8 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
 - A huge thank you to Anna Greaves and Code Institute for [the Love Running Walkthrough project](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode) which was a great reference, inspiration and example.
 
 ### Media
+
+- The home page's [hero image](https://unsplash.com/photos/8lC7p0vq62A) was taken from [Unplash.](https://unsplash.com/)
+- All the Photos page gallery images were taken from [Pexels.](https://www.pexels.com/search/vinyl/)
+- The [sign up page's background image](https://www.pexels.com/photo/closeup-photo-of-rca-vinyl-record-disc-1300578/) was taken from [Pexels.](https://www.pexels.com/search/vinyl/)
+- The contact page's iFrame music player is by [Spotify.](https://spotify.com/)
