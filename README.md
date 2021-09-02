@@ -18,6 +18,21 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
 - Anyone who has a vinyl record collection.
 - Music fans who want to learn more about vinyl and meet like-minded people.
 
+### Wireframes
+
+The mockups below were done with the help of Balsamiq (for both desktop and mobile screens), these were useful to help visualise the project.
+
+- Desktop:
+  - Home page 
+  ![Home Desktop Mockup](docs/wireframes/desk-wireframe-home.png)
+  - Photos page 
+  ![Photos Desktop Mockup](docs/wireframes/desk-wireframe-photos.png)
+  - Contact page
+  ![Contact Desktop Mockup](docs/wireframes/desk-wireframe-contact.png)
+
+- Mobile pages:
+![Mobile Mockups](docs/wireframes/mobile-wireframes.png)
+
 ## Features
 
 ### Existing Features
