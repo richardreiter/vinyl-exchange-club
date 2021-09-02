@@ -11,7 +11,12 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
 ### Project Goals
 
 - Create a community in which vinyl fans are able to connect with each other and exchange music.
-- Provide a sociable and sustainable platform for music fans to grow their collections and potentially make new friends.
+- Provide a sociable and sustainable platform for music fans (through events) so they can grow their collections and potentially make new friends.
+
+### Target Audience
+
+- Anyone who has a vinyl record collection.
+- Music fans who want to learn more about vinyl and meet like-minded people.
 
 ## Features
 
@@ -28,7 +33,6 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
 - __Hero image/cover text__
 
   - Landing page/hero image features a picture of a vinyl record and needle, including a cover text overlay to welcome the user and let them know in a sentence what the site is about.
-
   - It also features a backwards animation aiming to catch the user's attention.
 
 ![Hero Image](docs/screenshots/vec-hero.png)
@@ -64,7 +68,6 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
 - __Spotify iFrame__
 
   - The Spotify iFrame section precedes the footer section on the contact page.
-
   - This section features an inline frame where the user will have the opportunity to initiate the action of playing music (only if they click on the play button) from the club's Spotify playlist that is embedded.
 
 ![Spotify iFrame](docs/screenshots/vec-spotifyiframe.png)
