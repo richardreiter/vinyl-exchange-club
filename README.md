@@ -6,6 +6,13 @@
 
 Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-club/)
 
+## UX (User Experience)
+
+### Project Goals
+
+- Create a community in which vinyl fans are able to connect with each other and exchange music.
+- Provide a sociable and sustainable platform for music fans to grow their collections and potentially make new friends.
+
 ## Features
 
 ### Existing Features
