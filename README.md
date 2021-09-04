@@ -33,6 +33,15 @@ The mockups below were done with the help of Balsamiq (for both desktop and mobi
 - Mobile pages:
 ![Mobile Mockups](docs/wireframes/mobile-wireframes.png)
 
+### Design
+
+- The color scheme was inspired by a mix of a few ideas from [this article](https://designshack.net/articles/trends/best-website-color-schemes/) and also by the [hero image](docs/images/hero-image.jpg) (picking colors from the image using the [Eye Dropper extension](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en)) - the contrast was also validated, please refer to the Testing section for the screenshots.
+![Color scheme](docs/screenshots/palette.png)
+
+- [Google Fonts](https://fonts.google.com/) was used for the website's fonts, some inspiration on the choice of fonts (Crimson Text & Open Sans) came from [mixed ideas of this blog post.](https://artisanthemes.io/best-google-fonts-combinations-modern-agency-website/) Crimson Text (a serif font inspired by old-style typefaces) for the headings, combined with Open Sans (modern sans-serif), gives a nice combination tradition and modernity.
+
+![Fonts Used](docs/screenshots/fonts.png)
+
 ## Features
 
 ### Existing Features
