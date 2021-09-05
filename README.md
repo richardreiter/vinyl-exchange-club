@@ -10,13 +10,23 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
 
 ### Project Goals
 
-- Create a community in which vinyl fans are able to connect with each other and exchange music.
+- Create a community in which vinyl fans are able to connect with each other and exchange music (through meetups/events).
 - Provide a sociable and sustainable platform for music fans (through events) so they can grow their collections and potentially make new friends.
 
 ### Target Audience
 
 - Anyone who has a vinyl record collection.
 - Music fans who want to learn more about vinyl and meet like-minded people.
+
+### User Stories
+
+- As a user, I want to understand what the website is about.
+- As a user, I want to navigate the website with ease so I am able to find the information I am looking for easily.
+- As a user, I want to find the website's socials at the header or footer.
+- As a user, I want to find out the website's mission/ethos.
+- As a user, I want to see pictures of the website's events/meetups.
+- As a user, I want to be able to contact Vinyl Exchange Club easily to join the club.
+
 
 ### Wireframes
 
