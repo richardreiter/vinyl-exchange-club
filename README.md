@@ -249,6 +249,7 @@ The mockups below were done with the help of Balsamiq (for both desktop and mobi
 - The instructions on [how to center a form submit button](https://stackoverflow.com/questions/4221263/center-form-submit-buttons-html-css) were taken from [this Stack Overflow post](https://stackoverflow.com/questions/4221263/center-form-submit-buttons-html-css).
 - The instructions on [how to fix the iframe showing error on validation](https://stackoverflow.com/questions/11810034/iframe-showing-error-on-validation) were taken from [this Stack Overflow post.](https://stackoverflow.com/questions/11810034/iframe-showing-error-on-validation)
 - [This Stack Overflow blog post about best practices for writing code comments](https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/) inspired me, when leaving code comments/references.
+- [This Youtube video](https://www.youtube.com/watch?v=tKSUokG3Y0w) that taught me more about User Stories.
 - A huge thank you to Anna Greaves and Code Institute for [the Love Running Walkthrough project](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode) which was a great reference, inspiration and example.
 
 ### Media
@@ -257,3 +258,7 @@ The mockups below were done with the help of Balsamiq (for both desktop and mobi
 - All the Photos page gallery images were taken from [Pexels.](https://www.pexels.com/search/vinyl/)
 - The [sign up page's background image](https://www.pexels.com/photo/closeup-photo-of-rca-vinyl-record-disc-1300578/) was taken from [Pexels.](https://www.pexels.com/search/vinyl/)
 - The contact page's iFrame music player is by [Spotify.](https://spotify.com/)
+
+### Other
+
+- Many thanks to my mentor, Gerry McBride, for his guidance and feedback.
