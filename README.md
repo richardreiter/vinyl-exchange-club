@@ -1,6 +1,6 @@
 # Vinyl Exchange Club
 
-[Vinyl Exchange Club](https://richardreiter.github.io/vinyl-exchange-club/) is a website dedicated to LP aficionados, who are looking into engaging with other vinyl collectors. The website will be targeted at people who own vinyl records, so these like-minded people can meet, explore new music, genres, artists and bands - all in a sustainable way - swapping their record collection among each other during events/meetups.
+[Vinyl Exchange Club](https://richardreiter.github.io/vinyl-exchange-club/) is a website dedicated to LP aficionados, who are looking to engage with other vinyl collectors. The website will be targeted at people who own vinyl records, so these like-minded people can meet, explore new music, genres, artists, and bands - all sustainably - swapping their record collection amongst each other during events/meetups.
 
 ![Responsive Vinyl Exchange Club](docs/screenshots/vec-responsiveness.png)
 
@@ -11,7 +11,7 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
 ### Project Goals
 
 - Create a community in which vinyl fans are able to connect with each other and exchange music (through meetups/events).
-- Provide a sociable and sustainable platform for music fans (through events) so they can grow their collections and potentially make new friends.
+- Provide a sociable and sustainable platform for music fans (through events/meetups) so they can grow their collections and potentially make new friends.
 
 ### Target Audience
 
@@ -21,7 +21,7 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
 ### User Stories
 
 - As a user, I want to understand what the website is about.
-- As a user, I want to navigate the website with ease so I am able to find the information I am looking for easily.
+- As a user, I want to navigate the website with ease, so I am able to find the information I am looking for easily.
 - As a user, I want to find the website's socials at the header or footer.
 - As a user, I want to find out the website's mission/ethos.
 - As a user, I want to see pictures of the website's events/meetups.
@@ -45,10 +45,10 @@ The mockups below were done with the help of Balsamiq (for both desktop and mobi
 
 ### Design
 
-- The color scheme was inspired by a mix of a few ideas from [this article](https://designshack.net/articles/trends/best-website-color-schemes/) and also by the [hero image](docs/images/hero-image.jpg) (picking colors from the image using the [Eye Dropper extension](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en)) - the contrast was also validated, please refer to the Testing section for the screenshots.
+- The colour scheme was inspired by a combination of ideas from [this article](https://designshack.net/articles/trends/best-website-color-schemes/) and also by the [hero image](docs/images/hero-image.jpg) (picking colours from the image using the [Eye Dropper extension](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en)) - the contrast was also validated, please refer to the Testing section for the screenshots.
 ![Color scheme](docs/screenshots/palette.png)
 
-- [Google Fonts](https://fonts.google.com/) was used for the website's fonts, some inspiration on the choice of fonts (Crimson Text & Open Sans) came from [mixed ideas of this blog post.](https://artisanthemes.io/best-google-fonts-combinations-modern-agency-website/) Crimson Text (a serif font inspired by old-style typefaces) for the headings, combined with Open Sans (modern sans-serif), gives a nice combination tradition and modernity.
+- [Google Fonts](https://fonts.google.com/) was used for the website's fonts, some inspiration on the choice of fonts (Crimson Text & Open Sans) came from [mixed ideas of this blog post.](https://artisanthemes.io/best-google-fonts-combinations-modern-agency-website/) Crimson Text (a serif font inspired by old-style typefaces) for the headings, combined with Open Sans (modern sans-serif), gives a combination of tradition and modernity.
 
 ![Fonts Used](docs/screenshots/fonts.png)
 
@@ -74,21 +74,21 @@ The mockups below were done with the help of Balsamiq (for both desktop and mobi
 - __Mission/Intentions Section__
 
   - The mission section is going to clarify to the user the perks/gains of joining the Vinyl Exchange Club community. 
-  - This section should inspire the user to contemplate engaging with the site's community, as they could potentially make new friends, hear new music, save money and help the environment, all in a sustainable way.
+  - This section should inspire the user to contemplate engaging with the site's community, as they could potentially make new friends, hear new music, and save money, all sustainably.
 
 ![Mission](docs/screenshots/vec-mission.png)
 
 - __Footer__
 
-  - The footer area consists of five social links of the club (Instagram, Facebook, Spotify, Mixcloud and Soundcloud - all of them if clicked, open on a separate tab).
-  - Like the navigation section, the footer looks the same in each page (and features in all of the pages) to allow for easy navigation, taking the user through a logical journey.
+  - The footer area consists of five social links of the club (Instagram, Facebook, Spotify, Mixcloud and Soundcloud - all of them, if clicked, open on a separate tab).
+  - Like the navigation section, the footer looks the same on each page (and features on all of the pages) to allow for easy navigation, taking the user through a logical journey.
 
 ![Footer](docs/screenshots/vec-footer.png)
 
 - __Photos Page__
 
-  - The photos page features a series of high quality images which can aid the users to have an idea of how the club hang outs are.
-  - Users may find this section in particular beneficial, as they will have a visual idea of what the club appears to be and how members engage.
+  - The photos page features a series of high quality images, which will provide the users an idea of how the club hang-outs are.
+  - Users may find this section particularly beneficial, as they will have a visual idea of what the club appears to be and how members engage.
 
 ![Photos Page](docs/screenshots/vec-gallery.png)
 
@@ -198,7 +198,7 @@ The mockups below were done with the help of Balsamiq (for both desktop and mobi
   - The menu links are displayed under the logo on tablet/mobile devices.
 
 - Gallery:
-  - The photo gallery is fully responsive (the column count for laptop/desktop is three photos, tablets is two pictures and for mobile is one photo).
+  - The photo gallery is fully responsive (the column count for laptop/desktop is three photos, tablets is two pictures and for mobile just one photo).
 
 - Contact Form:
   - The contact form has validation for the email and mobile fields.
@@ -209,17 +209,17 @@ The mockups below were done with the help of Balsamiq (for both desktop and mobi
 
 - Footer:
   - The footer can be found at the bottom of all pages (common website convention) and is fully responsive on all viewports.
-  - All links were tested making sure they are corret and open on a new tab.
+  - All links were tested making sure they are correct and open on a new tab.
 
 ### Fixed Bugs
 
 - Footer icons had disappeared from Photos page:
-  - I had accidentaly deleted the [Font Awesome](https://fontawesome.com/) kit script from the page's source code, issue was fixed once I implemented the script again (footer icons reappeared).
+  - I had accidentally deleted the [Font Awesome](https://fontawesome.com/) kit script from the page's source code, the issue was fixed once I implemented the script again (footer icons reappeared).
 
-- Background image disappeared from Contact page once website was deployed:
+- Background image disappeared from the Contact page once website was deployed:
   - I hadn't noticed I was using an absolute file path as opposed to a relative one for that image in particular, once I deployed the site I couldn't see the contact page's background image, this was fixed once I changed the file path to a relative path.
 
-- iFrame code embbed validation issue:
+- iFrame code embed validation issue:
   - When passing the contact page code through [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frichardreiter.github.io%2Fvinyl-exchange-club%2F), initially I had received a few error messages regarding the iFrame code snippet I copied from Spotify, these were fixed once I read the error messages from the validator and removed the width, frameborder and allowtransparency attributes from the code snippet.
 
 - Photos page validation warning:
@@ -243,10 +243,10 @@ The mockups below were done with the help of Balsamiq (for both desktop and mobi
 
 - The footer icons were taken from [Font Awesome.](https://fontawesome.com/)
 - Font inspiration ideas were taken from [this blog post.](https://artisanthemes.io/best-google-fonts-combinations-modern-agency-website/)
-- The color scheme was inspired on [this article.](https://designshack.net/articles/trends/best-website-color-schemes/)
+- The colour scheme was inspired by [this article.](https://designshack.net/articles/trends/best-website-color-schemes/)
 - The instructions on [how to fix the navigation bar text aligning backwards](https://stackoverflow.com/questions/32768668/navigation-bar-text-aligning-backwards-css) were taken from [this Stack Overflow post](https://stackoverflow.com/questions/32768668/navigation-bar-text-aligning-backwards-css).
 - The instructions on [how to reset/remove the latest Git commit from a repo](https://gist.github.com/CrookedNumber/8964442) were taken from [this Github Gist](https://gist.github.com/CrookedNumber/8964442).
-- The instructions on [how to center a form submit button](https://stackoverflow.com/questions/4221263/center-form-submit-buttons-html-css) were taken from [this Stack Overflow post](https://stackoverflow.com/questions/4221263/center-form-submit-buttons-html-css).
+- The instructions on [how to centre a form submit button](https://stackoverflow.com/questions/4221263/center-form-submit-buttons-html-css) were taken from [this Stack Overflow post](https://stackoverflow.com/questions/4221263/center-form-submit-buttons-html-css).
 - The instructions on [how to fix the iframe showing error on validation](https://stackoverflow.com/questions/11810034/iframe-showing-error-on-validation) were taken from [this Stack Overflow post.](https://stackoverflow.com/questions/11810034/iframe-showing-error-on-validation)
 - [This Stack Overflow blog post about best practices for writing code comments](https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/) inspired me, when leaving code comments/references.
 - [This Youtube video](https://www.youtube.com/watch?v=tKSUokG3Y0w) that taught me more about User Stories.
