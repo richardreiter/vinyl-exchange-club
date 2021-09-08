@@ -123,6 +123,19 @@ The mockups below were done with the help of Balsamiq (for both desktop and mobi
 - [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+### Frameworks, Libraries & Programs Used
+
+- [Balsamiq](https://balsamiq.com/)
+  - Balsamiq was used to make desktop/mobile mockups in order to visualise the project.
+- [Git](https://git-scm.com/) & [Gitpod](https://gitpod.io/)
+  - Git was used for version control via the Gitpod terminal in order to commit to Git and push to GitHub.
+- [GitHub](https://github.com/)
+  - GitHub for hosting the project and version control.
+- [Google Fonts](https://fonts.google.com/)
+  - Google Fonts was used to import both the Crimson Text & Open Sans fonts which are used on the website.
+- [Font Awesome](https://fontawesome.com/)
+  - Font Awesome was used to add icons to improve the design of the website.
+
 ## Testing
 
 ### Validator Testing
