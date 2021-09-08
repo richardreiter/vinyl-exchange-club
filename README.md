@@ -22,7 +22,7 @@ Visit the live project [here](https://richardreiter.github.io/vinyl-exchange-clu
 
 - As a user, I want to understand what the website is about.
 - As a user, I want to navigate the website with ease, so I am able to find the information I am looking for easily.
-- As a user, I want to find the website's socials at the header or footer.
+- As a user, I want to find the website's socials at the footer.
 - As a user, I want to find out the website's mission/ethos.
 - As a user, I want to see pictures of the website's events/meetups.
 - As a user, I want to be able to contact Vinyl Exchange Club easily to join the club.
@@ -130,13 +130,28 @@ The mockups below were done with the help of Balsamiq (for both desktop and mobi
 - [Git](https://git-scm.com/) & [Gitpod](https://gitpod.io/)
   - Git was used for version control via the Gitpod terminal in order to commit to Git and push to GitHub.
 - [GitHub](https://github.com/)
-  - GitHub for hosting the project and version control.
+  - GitHub was used for hosting the project and version control.
 - [Google Fonts](https://fonts.google.com/)
   - Google Fonts was used to import both the Crimson Text & Open Sans fonts which are used on the website.
 - [Font Awesome](https://fontawesome.com/)
   - Font Awesome was used to add icons to improve the design of the website.
 
 ## Testing
+
+### Testing User Stories from User Experience (UX) Section
+
+- "As a user, I want to understand what the website is about."
+  - Upon entering the website, users are greeted by the landing page/hero image, including a cover text overlay to welcome the user and let them know in a sentence what the site is about (the user can also see the website's logo clearly displayed at the top left corner).
+- "As a user, I want to navigate the website with ease, so I am able to find the information I am looking for easily."
+  - The navigation bar can be found at the top of all the pages (common website convention), taking the user through a logical journey.
+- "As a user, I want to find the website's socials at the footer."
+  - All social links/icons can be found at the footer of all the website's pages.
+- "As a user, I want to find out the website's mission/ethos."
+  - The user will find the website's mission/ethos right below the hero image on the landing page.
+- "As a user, I want to see pictures of the website's events/meetups."
+  - The photo gallery showing pictures from the club's previous events can be found on the photos page (easily accessible through the navigation bar).
+- "As a user, I want to be able to contact Vinyl Exchange Club easily to join the club."
+  - There's an easy to use contact form which can be seen on the contact page, giving the user an opportunity to contact the club.
 
 ### Validator Testing
 
