@@ -116,6 +116,13 @@ The mockups below were done with the help of Balsamiq (for both desktop and mobi
 
   - Implementing a forum/members area in the future could be really beneficial for the Vinyl Exchange Club community, so the users would be able to post vinyl records that they are willing to exchange and also let other users know which records they'd be looking for.
 
+## Technologies Used
+
+### Languages Used
+
+- [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 ## Testing
 
 ### Validator Testing
